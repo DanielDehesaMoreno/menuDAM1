@@ -21,7 +21,7 @@ public class MenuDAM1 {
         int opcion;
         Scanner teclado = new Scanner(System.in);
         do {
-            System.out.println("--- MENU ENTORNOS DE DESARROLLOS ---");
+            System.out.println("--- MATEMATICAS EN LA E.S.O. ---");
             System.out.println("- Seleccione una de las siguiente opciones tecleando 1, 2, 3, 4, 5, 6 o 7 -");
             System.out.println("1. Calcular si un número es perfecto.");
             System.out.println("2. Hacer la tabla de multiplicar de un número.");
