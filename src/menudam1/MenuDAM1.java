@@ -75,6 +75,14 @@ public class MenuDAM1 {
                 case 5:
                     break;
                 case 6:
+                    int selec;
+                    System.out.println("Introduce un numero para comprobar si es divisible por 15");
+                    selec = teclado.nextInt();
+                    if (selec % 15==0){
+                        System.out.println(selec+" es divisible por 15");
+                    }else{
+                        System.out.println(selec+" no es divisible por 15");
+                    }
                     break;
                 case 7:
                     break;
