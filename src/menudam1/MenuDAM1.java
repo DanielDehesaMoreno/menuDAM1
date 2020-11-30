@@ -48,9 +48,7 @@ public class MenuDAM1 {
                         System.out.println("Perfecto");
                     } else {
                         System.out.println("No es perfecto");
-
                     }
-
                     break;
                 case 2:
                     int resul;
