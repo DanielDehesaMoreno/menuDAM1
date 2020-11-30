@@ -71,6 +71,14 @@ public class MenuDAM1 {
                 case 3:
                     break;
                 case 4:
+                    System.out.println("Introduce un numero: ");
+                    num=teclado.nextInt();
+                    if (num%2==0){
+                        System.out.println("El numero es exacto ");
+                        
+                    }else{
+                        System.out.println("El numero no es exacto");
+                    }
                     break;
                 case 5:
                     break;
